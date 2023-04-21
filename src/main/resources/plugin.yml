@@ -2,3 +2,8 @@ name: EPlugin
 version: '${project.version}'
 main: io.github.closeddev.eplugin.EPlugin
 api-version: 1.19
+author: Render
+commands:
+  td:
+    usage: "/td [time]"
+    description: "Time Set day"
